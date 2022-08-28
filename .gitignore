@@ -1,0 +1,9 @@
+server/main.exe
+server/main
+server/upload/*
+client/node_modules
+client/.vscode
+client/.quasar
+client/dist
+client/dist.zip
+server/server.zip
